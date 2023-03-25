@@ -15,4 +15,4 @@ hello git!
 hello git!      master test
 I changed it!
 I changed it again!
-I fixed it!
+I fixed it!         hot-fix test
