@@ -12,7 +12,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
+hello git!          
 I changed it!
 I changed it again!
-I fixed it!
+I fixed it!         hot-fix test
